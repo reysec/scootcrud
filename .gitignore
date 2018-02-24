@@ -57,3 +57,5 @@ typings/
 # dotenv environment variables file
 .env
 
+# Don track db account
+config/db.js
